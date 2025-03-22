@@ -15,7 +15,7 @@ import {
 const items = [
   {
     title: "Dashboard",
-    url: "#",
+    url: "dashboard",
     icon: Home,
   },
   {
@@ -25,17 +25,17 @@ const items = [
   },
   {
     title: "Portfolio",
-    url: "#",
+    url: "portfolio",
     icon: Calendar,
   },
   {
     title: "AI Advisory",
-    url: "#",
+    url: "advisory",
     icon: MessageCircle,
   },
   {
     title: "Tax Calculator",
-    url: "#",
+    url: "tax-calculator",
     icon: Calculator,
   },
 ]
