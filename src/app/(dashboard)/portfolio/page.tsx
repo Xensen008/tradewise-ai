@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
+import { PortfolioClient } from '@/components/dashboard/PortfolioClient';
 
-const page = () => {
-  return (
-    <div>page</div>
-  )
-}
+// This is a server component that uses a client component
+const Portfolio = () => {
+  return <PortfolioClient />;
+};
 
-export default page
+export default Portfolio;
